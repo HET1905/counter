@@ -2,6 +2,7 @@
   "name": "unit-testing-demo",
   "version": "0.1.0",
   "private": true,
+  "homepage": " https://het1905.github.io/counter/",
   "dependencies": {
     "@babel/core": "7.7.4",
     "@svgr/webpack": "4.3.3",
@@ -30,6 +31,7 @@
     "eslint-plugin-react-hooks": "^1.6.1",
     "file-loader": "4.3.0",
     "fs-extra": "^8.1.0",
+    "gh-pages": "^2.1.1",
     "html-webpack-plugin": "4.0.0-beta.5",
     "identity-obj-proxy": "3.0.0",
     "jest": "24.9.0",
